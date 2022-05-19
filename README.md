@@ -1,7 +1,7 @@
 # Cat's Holdable Pringles! (Gorilla Tag Mod)
 Grab the ultimate Pringles in your right hand.
 
-![Preview](https://user-images.githubusercontent.com/105093518/167679673-dc54ce22-7d3f-4a6f-b2b7-fb745ea0a701.png)
+![Preview](https://user-images.githubusercontent.com/105093518/169393689-14c03746-4053-42e9-a049-a28908dfd7f1.png)
 #
 ### Details & Instructions
 - This mod will only work with **Utilla 1.5.0+** ([Latest Version](https://github.com/legoandmars/Utilla/releases/latest)).
