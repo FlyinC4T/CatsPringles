@@ -18,6 +18,6 @@ With that, you should now have your mod installed!
 - *Yizzi* on Discord. Had me backed up with the "you should do this" situations.
 - *dev.* on Discord. Without them, I wouldn't have known what "embedded resources" was for.
 - *[Seventy](https://github.com/7Seventy0)* on Github. For basically publishing the source codes of their mods lol ( ͡° ͜ʖ ͡°).
-- *[umar6419](https://free3d.com/user/umar6419)* on Free3D. For listing multiple models that are free to use including [the model for CatsFish](https://free3d.com/3d-model/tuna-fish-21843.html).
+- *[umar6419](https://free3d.com/user/umar6419)* on Free3D. For listing multiple models that are free to use including [the model for CatsFish](https://free3d.com/3d-model/tuna-fish-21843.html). *(Not all of the models I use are by this person.)*
 #
-README 1.02
+README 1.03
